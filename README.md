@@ -1,16 +1,29 @@
-## Hi there 👋
+                    🌙
+       VINICIUS MONTEIRO TITO
 
-<!--
-**viniciusmonteirotito/viniciusmonteirotito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Cybersecurity Analyst • DFIR • Digital Forensics
+              • Incident Response •
 
-Here are some ideas to get you started:
+        🎧 LO-FI / CYBERSECURITY
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ─────────────────────────────────────────
+
+ 🌙 focus_mode.exe
+
+ 🔎 About Me
+
+ 🛡️ Núcleo DFIR
+
+ 🔬 Atlas Forensics
+
+ 🧰 Security Stack
+
+ 📚 Knowledge
+
+ 🎧 Now Playing
+
+ 🏆 Certifications
+
+ 📫 Let's Connect
+
+             🌧️ 💻 🎧
