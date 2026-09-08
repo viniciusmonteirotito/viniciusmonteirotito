@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/lofi-cyber.gif" width="100%" alt="Lo-fi Cybersecurity">
+<img src="./assets/gif1.gif" width="100%" alt="Cybersecurity">
 
 <br>
 
