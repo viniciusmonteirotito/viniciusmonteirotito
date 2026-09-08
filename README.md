@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/gif1.gif" width="100%" alt="Cybersecurity">
+<img src="./assets/gif2.gif" width="100%" alt="Cybersecurity">
 
 <br>
 
