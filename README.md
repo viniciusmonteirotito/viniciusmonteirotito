@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="./assets/terminal.gif" width="600px" alt="Terminal">
+<img src="./assets/gif3.gif" width="600px" alt="Terminal">
 
 <br><br>
 
