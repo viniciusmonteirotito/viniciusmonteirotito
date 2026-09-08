@@ -19,8 +19,3 @@
 </div>
 
 ---
-<div align="center">
-
-<img src="./assets/gif4.gif" width="100%" alt="Cybersecurity">
-
-<br>
