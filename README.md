@@ -1,8 +1,3 @@
-<div align="center">
-
-<img src="./assets/gif2.gif" width="100%" alt="Cybersecurity">
-
-<br>
 
 # 🛡️ Vinicius Monteiro Tito
 
